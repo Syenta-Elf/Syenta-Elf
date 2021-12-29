@@ -1,4 +1,4 @@
 ﻿# Syenta-Elf
  
- [![Syenta-Elf'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syenta-Elf&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+ [![Syenta-Elf'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syenta-Elf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
