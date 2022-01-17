@@ -1,6 +1,6 @@
 ### Hi there 👋, Elif Nur Telase
 #### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development]
 
 I'm Elif from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Android and .Net, as well as work in VS Code.
 
