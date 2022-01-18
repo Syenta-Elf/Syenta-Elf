@@ -27,10 +27,9 @@ Design: <br/> <br/>
  IDEs/Editors:<br/><br/>
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
-<br/>
-[<img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/Syenta-elf)  
-<a href="(https://www.linkedin.com/in/elif-nur-telase/)"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+Social:<br/><br/>
+<a href="(https://www.linkedin.com/in/elif-nur-telase/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<hr/>
 
 [![Syenta-Elf'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syenta-Elf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
