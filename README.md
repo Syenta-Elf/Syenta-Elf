@@ -1,6 +1,6 @@
 ### Hi there 👋, Elif Nur Telase
 #### Design and Development
-![Design and Development]
+
 
 ![hi-export](https://user-images.githubusercontent.com/46992725/149853824-18e64f46-e423-4caa-a6da-07cb752d1f61.gif)
 
