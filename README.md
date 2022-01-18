@@ -29,12 +29,11 @@ Design: <br/> <br/>
 
 <hr/>
 
-[![Syenta-Elf'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syenta-Elf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Syenta-Elf'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syenta-Elf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syenta-elf)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syenta-elf)  --->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Syenta-elf)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Syenta-elf)  --->
 
 
 
