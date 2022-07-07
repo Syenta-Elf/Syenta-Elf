@@ -4,9 +4,9 @@
 
    ![hi-export](https://user-images.githubusercontent.com/46992725/149853824-18e64f46-e423-4caa-a6da-07cb752d1f61.gif)
 
-I'm Elif from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Android and .Net, as well as work in VS Code.
+I'm Elif from Turkey, and I do content on Design and Development. I really enjoy learning programming!
 
-- 🌱 I’m currently learning Java, Kotlin and C# 
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: She 
 
 
