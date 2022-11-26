@@ -6,7 +6,7 @@
 
 I'm Elif from Turkey, and I do content on Design and Development. I really enjoy learning programming!
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently worknig at Huawei R&D as a Backend Developer
 - 😄 Pronouns: She 
 
 
