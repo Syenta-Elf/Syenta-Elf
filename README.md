@@ -1,4 +1,5 @@
-# Hey, I'm Elif 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B42BC&width=600&lines=Hey%2C+I'm+Elif+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;CKA+Certified+%7C+Terraform+%7C+Kubernetes;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 Cloud & DevOps Engineer with a CKA certification and a passion for building reliable, automated infrastructure. I love turning complex systems into clean, reproducible code.
 
@@ -46,7 +47,6 @@ A fully automated local infrastructure lab using Terraform, Ansible, and Docker.
 `Terraform` `Docker` `Ansible` `GitHub Actions`
 
 ---
-
 
 ## 📈 GitHub Stats
 
