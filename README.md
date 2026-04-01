@@ -46,15 +46,9 @@ A fully automated local infrastructure lab using Terraform, Ansible, and Docker.
 
 `Terraform` `Docker` `Ansible` `GitHub Actions`
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-nur-telase/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elifnur.telase@gmail.com)
