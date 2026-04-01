@@ -1,38 +1,60 @@
-### Hi there 👋, Elif Nur Telase
-#### Design and Development
+# Hey, I'm Elif 👋
+
+Cloud & DevOps Engineer with a CKA certification and a passion for building reliable, automated infrastructure. I love turning complex systems into clean, reproducible code.
+
+Currently leveling up my IaC and automation skills — always learning, always shipping.
+
+---
+
+## 🛠️ What I work with
+
+**Infrastructure & Cloud**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**CI/CD & Observability**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- 🏆 **CKA** — Certified Kubernetes Administrator (Linux Foundation, Dec 2025)
+- 🏆 **KCNA** — Kubernetes and Cloud Native Associate (Linux Foundation, Jan 2026)
+- 🏆 **LFCA** — Linux Foundation Certified IT Associate (Jan 2026)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 [local-devops-lab](https://github.com/Syenta-Elf/local-devops-lab) *(in progress)*
+A fully automated local infrastructure lab using Terraform, Ansible, and Docker.
+- Terraform modules for container orchestration
+- GitLab remote state management
+- Ansible provisioning on Lima VMs
+- CI/CD with GitHub Actions
+
+`Terraform` `Docker` `Ansible` `GitHub Actions`
+
+---
 
 
-   ![hi-export](https://user-images.githubusercontent.com/46992725/149853824-18e64f46-e423-4caa-a6da-07cb752d1f61.gif)
+## 📈 GitHub Stats
 
-I'm Elif from Turkey, and I do content on Design and Development. I really enjoy learning programming!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
 
-- 🌱 I’m currently worknig at Huawei R&D as a Backend Developer
-- 😄 Pronouns: She 
+---
 
+## 📫 Let's connect
 
-<hr/>
-
-[![Syenta-Elf'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Syenta-Elf&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syenta-Elf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-<hr/>
-
-Skills: <br/><br/>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-Design: <br/> <br/>
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
- 
- Education: <br/><br/>
- ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) 
- 
- Forums:<br/><br/>
- ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
- 
- 
- IDEs/Editors:<br/><br/>
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Syenta-elf)  --->
-
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Syenta-elf)  --->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-nur-telase/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elifnur.telase@gmail.com)
